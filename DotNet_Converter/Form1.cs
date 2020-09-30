@@ -107,26 +107,6 @@ namespace DotNet_Converter
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
                     ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.gif", Format.gif);
                 }
-                if (comboBox1.SelectedItem == ".h261")
-                {
-                    var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h261", Format.h261);
-                }
-                if (comboBox1.SelectedItem == ".h263")
-                {
-                    var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h263", Format.h263);
-                }
-                if (comboBox1.SelectedItem == ".h264")
-                {
-                    var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h264", Format.h264);
-                }
-                if (comboBox1.SelectedItem == ".h265")
-                {
-                    var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h265", Format.h265);
-                }
                 if (comboBox1.SelectedItem == ".m4v")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
