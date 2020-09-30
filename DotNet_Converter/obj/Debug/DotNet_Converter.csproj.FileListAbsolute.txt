@@ -1,0 +1,13 @@
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\bin\Debug\.NET_Converter.exe.config
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\bin\Debug\.NET_Converter.exe
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\bin\Debug\.NET_Converter.pdb
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\DotNet_Converter.csprojAssemblyReference.cache
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\DotNet_Converter.Form1.resources
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\DotNet_Converter.Properties.Resources.resources
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\DotNet_Converter.csproj.GenerateResource.cache
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\DotNet_Converter.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\DotNet_Converter.csproj.CopyComplete
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\.NET_Converter.exe
+C:\Users\Yasin\Documents\Visual Studio 2019\Project\DotNet_Converter\DotNet_Converter\obj\Debug\.NET_Converter.pdb
