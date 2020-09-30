@@ -40,157 +40,157 @@ namespace DotNet_Converter
                 if (comboBox1.SelectedItem == ".ac3")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.ac3", Format.ac3);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.ac3", Format.ac3);
                 }
                 if (comboBox1.SelectedItem == ".aiff")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.aiff", Format.aiff);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.aiff", Format.aiff);
                 }
                 if (comboBox1.SelectedItem == ".alaw")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.alaw", Format.alaw);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.alaw", Format.alaw);
                 }
                 if (comboBox1.SelectedItem == ".asf")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.asf", Format.asf);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.asf", Format.asf);
                 }
                 if (comboBox1.SelectedItem == ".ast")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.ast", Format.ast);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.ast", Format.ast);
                 }
                 if (comboBox1.SelectedItem == ".au")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.au", Format.au);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.au", Format.au);
                 }
                 if (comboBox1.SelectedItem == ".avi")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.avi", Format.avi);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.avi", Format.avi);
                 }
                 if (comboBox1.SelectedItem == ".vaf")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.caf", Format.caf);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.caf", Format.caf);
                 }
                 if (comboBox1.SelectedItem == ".dts")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.dts", Format.dts);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.dts", Format.dts);
                 }
                 if (comboBox1.SelectedItem == ".eac3")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.eac3", Format.eac3);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.eac3", Format.eac3);
                 }
                 if (comboBox1.SelectedItem == ".ffm")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.ffm", Format.ffm);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.ffm", Format.ffm);
                 }
                 if (comboBox1.SelectedItem == ".flac")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.flac", Format.flac);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.flac", Format.flac);
                 }
                 if (comboBox1.SelectedItem == ".flv")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.flv", Format.flv);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.flv", Format.flv);
                 }
                 if (comboBox1.SelectedItem == ".gif")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.gif", Format.gif);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.gif", Format.gif);
                 }
                 if (comboBox1.SelectedItem == ".h261")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.h261", Format.h261);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h261", Format.h261);
                 }
                 if (comboBox1.SelectedItem == ".h263")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.h263", Format.h263);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h263", Format.h263);
                 }
                 if (comboBox1.SelectedItem == ".h264")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.h264", Format.h264);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h264", Format.h264);
                 }
                 if (comboBox1.SelectedItem == ".h265")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.h265", Format.h265);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.h265", Format.h265);
                 }
                 if (comboBox1.SelectedItem == ".m4v")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.m4v", Format.m4v);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.m4v", Format.m4v);
                 }
                 if (comboBox1.SelectedItem == ".matroska")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.matroska", Format.matroska);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.matroska", Format.matroska);
                 }
                 if (comboBox1.SelectedItem == ".mjpeg")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.mjpeg", Format.mjpeg);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.mjpeg", Format.mjpeg);
                 }
                 if (comboBox1.SelectedItem == ".mov")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.mov", Format.mov);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.mov", Format.mov);
                 }
                 if (comboBox1.SelectedItem == ".mp4")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.mp4", Format.mp4);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.mp4", Format.mp4);
                 }
                 if (comboBox1.SelectedItem == ".mpeg")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.mpeg", Format.mpeg);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.mpeg", Format.mpeg);
                 }
                 if (comboBox1.SelectedItem == ".mulaw")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.mulaw", Format.mulaw);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.mulaw", Format.mulaw);
                 }
                 if (comboBox1.SelectedItem == ".ogg")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.ogg", Format.ogg);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.ogg", Format.ogg);
                 }
                 if (comboBox1.SelectedItem == ".oma")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.oma", Format.oma);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.oma", Format.oma);
                 }
                 if (comboBox1.SelectedItem == ".rm")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.rm", Format.rm);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.rm", Format.rm);
                 }
                 if (comboBox1.SelectedItem == ".swf")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.swf", Format.swf);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.swf", Format.swf);
                 }
                 if (comboBox1.SelectedItem == ".webm")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.webm", Format.webm);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.webm", Format.webm);
                 }
                 if (comboBox1.SelectedItem == ".wmv")
                 {
                     var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by RConverter.wmv", Format.wmv);
+                    ffMpeg.ConvertMedia(openFileDialog1.FileName, folderBrowserDialog1.SelectedPath + "\\" + System.IO.Path.GetFileNameWithoutExtension(openFileDialog1.SafeFileName) + " - Converted by .NET Converter.wmv", Format.wmv);
                 }
             }
             catch (Exception error)
